@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router";
 import { Home } from "./pages/Home";
-import { Programme } from "./pages/Programme";
+import Programme from "./pages/Programme";
 import { Planning } from "./pages/Planning";
 import { ArtistDetail } from "./pages/ArtistDetail";
 import { Passeport } from "./pages/Passeport";

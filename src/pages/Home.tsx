@@ -8,7 +8,7 @@ export const Home = () => {
           </div>
 
 
-    <h1 className="text-6xl md:text-7xl font-black leading-tight">
+          <h1 className="text-6xl md:text-7xl font-black leading-tight">
             Vivez le rythme
             <br />
             <span className="text-orange-400">
