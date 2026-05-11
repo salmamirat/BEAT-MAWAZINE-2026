@@ -7,7 +7,7 @@ export const Navbar = () => {
                 <li className="hover:text-amber-300"><NavLink to="/">Home</NavLink></li>
                 <li className="hover:text-amber-300"><NavLink to="/Programme">Programme</NavLink></li>
                 <li className="hover:text-amber-300"><NavLink to="/Planning">planning</NavLink></li>
-                <li className="hover:text-amber-300"><NavLink to="ArtistDetail">Artist</NavLink></li>
+                <li className="hover:text-amber-300"><NavLink to="ArtistCard">Artists</NavLink></li>
                 <li className="hover:text-amber-300"><NavLink to="Passeport">passeport</NavLink></li>
 
             </ul>
